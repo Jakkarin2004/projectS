@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    display: inline-block;
+}
+li a{
+padding-right: 500px;
+color: #ffffff;
+
+}
+nav{
+background-color: rgb(0, 0, 0);
+padding: 5 px 20px;
+margin: 0;
+height: 100px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
